@@ -1,0 +1,9 @@
+{
+  "name": "@mitchreece/stylelint-config-base",
+  "version": "1.0.0",
+  "description": "rules for style linter",
+  "main": "index.js",
+  "author": "mitchreece <mitchellreece18@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
