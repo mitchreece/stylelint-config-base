@@ -7,6 +7,7 @@
     "eslint": "eslint .",
     "eslint-fix": "eslint --fix ."
   },
+  "repository": "https://github.com/mitchreece/stylelint-config-base",
   "author": "mitchreece <mitchellreece18@gmail.com>",
   "license": "MIT",
   "private": false,
