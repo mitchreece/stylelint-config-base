@@ -1,3 +1,3 @@
 module.exports = {
-    'property-case': 'lower',
+	'property-case': 'lower',
 }
